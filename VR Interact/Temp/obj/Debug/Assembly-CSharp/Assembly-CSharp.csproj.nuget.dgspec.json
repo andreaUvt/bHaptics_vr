@@ -1,0 +1,3489 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ciorb\\VR Interact\\Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ciorb\\VR Interact\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Assembly-CSharp.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Assembly-CSharp\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKEditor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKEditor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Bhaptics.SDK2.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Bhaptics.SDK2.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Bhaptics.SDK2.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Bhaptics.SDK2.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Runtime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Runtime.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.BuiltInTimer.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.BuiltInTimer.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.Chess.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.Chess.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.Dictation.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.Dictation.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.LightTraits.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.LightTraits.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.LiveUnderstanding.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.LiveUnderstanding.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.Shapes.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.Shapes.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.ShapesConduit.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.ShapesConduit.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.TTSVoices.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.TTSVoices.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.VSDKHub.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.VSDKHub.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Common.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Common.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Other.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Other.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.WebGL.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.WebGL.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAI.Lib.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAI.Lib.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.Audio.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.Audio.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.Utils.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.Utils.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.InterfaceSupport.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.InterfaceSupport.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.Samples.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.Samples.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.Samples.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.Samples.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.LipSync.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.LipSync.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.LipSync.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.LipSync.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Platform.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Platform.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Platform.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Platform.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Scripts.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Scripts.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Dictation.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Dictation.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Dictation.Runtime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Dictation.Runtime.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Runtime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Runtime.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKEditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKEditor.csproj",
+        "projectName": "AssistantCoreSDKEditor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKEditor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\AssistantCoreSDKEditor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj",
+        "projectName": "AssistantCoreSDKRuntime",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\AssistantCoreSDKRuntime\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Bhaptics.SDK2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Bhaptics.SDK2.csproj",
+        "projectName": "Bhaptics.SDK2",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Bhaptics.SDK2.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Bhaptics.SDK2\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Bhaptics.SDK2.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Bhaptics.SDK2.Editor.csproj",
+        "projectName": "Bhaptics.SDK2.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Bhaptics.SDK2.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Bhaptics.SDK2.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Bhaptics.SDK2.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Bhaptics.SDK2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.csproj",
+        "projectName": "Facebook.Wit.Dictation",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Facebook.Wit.Dictation\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.Editor.csproj",
+        "projectName": "Facebook.Wit.Dictation.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Facebook.Wit.Dictation.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Editor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Editor.csproj",
+        "projectName": "Meta.Voice.Hub.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.Voice.Hub.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Runtime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Runtime.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Runtime.csproj",
+        "projectName": "Meta.Voice.Hub.Runtime",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Runtime.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.Voice.Hub.Runtime\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.BuiltInTimer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.BuiltInTimer.csproj",
+        "projectName": "Meta.Voice.Samples.BuiltInTimer",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.BuiltInTimer.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.Voice.Samples.BuiltInTimer\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.Chess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.Chess.csproj",
+        "projectName": "Meta.Voice.Samples.Chess",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.Chess.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.Voice.Samples.Chess\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Runtime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Runtime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.Dictation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.Dictation.csproj",
+        "projectName": "Meta.Voice.Samples.Dictation",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.Dictation.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.Voice.Samples.Dictation\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.LightTraits.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.LightTraits.csproj",
+        "projectName": "Meta.Voice.Samples.LightTraits",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.LightTraits.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.Voice.Samples.LightTraits\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.LiveUnderstanding.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.LiveUnderstanding.csproj",
+        "projectName": "Meta.Voice.Samples.LiveUnderstanding",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.LiveUnderstanding.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.Voice.Samples.LiveUnderstanding\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.Shapes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.Shapes.csproj",
+        "projectName": "Meta.Voice.Samples.Shapes",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.Shapes.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.Voice.Samples.Shapes\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Runtime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Runtime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.ShapesConduit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.ShapesConduit.csproj",
+        "projectName": "Meta.Voice.Samples.ShapesConduit",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.ShapesConduit.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.Voice.Samples.ShapesConduit\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Runtime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Runtime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.TTSVoices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.TTSVoices.csproj",
+        "projectName": "Meta.Voice.Samples.TTSVoices",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Samples.TTSVoices.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.Voice.Samples.TTSVoices\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.VSDKHub.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.VSDKHub.Editor.csproj",
+        "projectName": "Meta.Voice.VSDKHub.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.VSDKHub.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.Voice.VSDKHub.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Runtime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Runtime.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Common.csproj",
+        "projectName": "Meta.VoiceSDK.Mic.Common",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Common.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.VoiceSDK.Mic.Common\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Other.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Other.csproj",
+        "projectName": "Meta.VoiceSDK.Mic.Other",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Other.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.VoiceSDK.Mic.Other\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Common.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Common.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.WebGL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.WebGL.csproj",
+        "projectName": "Meta.VoiceSDK.Mic.WebGL",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.WebGL.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.VoiceSDK.Mic.WebGL\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Common.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Common.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj",
+        "projectName": "Meta.WitAi.Conduit",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.WitAi.Conduit\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.Editor.csproj",
+        "projectName": "Meta.WitAi.Conduit.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.WitAi.Conduit.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAI.Lib.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAI.Lib.Editor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj",
+        "projectName": "Meta.WitAi",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.WitAi\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Common.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Common.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Other.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Other.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.WebGL.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.WebGL.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Editor.csproj",
+        "projectName": "Meta.WitAi.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.WitAi.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Other.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.VoiceSDK.Mic.Other.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAI.Lib.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAI.Lib.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj",
+        "projectName": "Meta.WitAi.Lib",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.WitAi.Lib\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.WitAI.Lib.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAI.Lib.Editor.csproj",
+        "projectName": "Meta.WitAI.Lib.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAI.Lib.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.WitAI.Lib.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.csproj",
+        "projectName": "Meta.WitAi.TTS",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.WitAi.TTS\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.Editor.csproj",
+        "projectName": "Meta.WitAi.TTS.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.WitAi.TTS.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAI.Lib.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAI.Lib.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.csproj",
+        "projectName": "Meta.XR.BuildingBlocks",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.XR.BuildingBlocks\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.Editor.csproj",
+        "projectName": "Meta.XR.BuildingBlocks.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Meta.XR.BuildingBlocks.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Editor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.Audio.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.Audio.Editor.csproj",
+        "projectName": "Oculus.AudioManager.Audio.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.Audio.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.AudioManager.Audio.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.csproj",
+        "projectName": "Oculus.AudioManager",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.AudioManager\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.Utils.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.Utils.Editor.csproj",
+        "projectName": "Oculus.AudioManager.Utils.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.Utils.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.AudioManager.Utils.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj",
+        "projectName": "Oculus.Interaction",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.Interaction\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.Editor.csproj",
+        "projectName": "Oculus.Interaction.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.Interaction.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.InterfaceSupport.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.InterfaceSupport.csproj",
+        "projectName": "Oculus.Interaction.InterfaceSupport",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.InterfaceSupport.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.Interaction.InterfaceSupport\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.csproj",
+        "projectName": "Oculus.Interaction.OVR",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.Interaction.OVR\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.Editor.csproj",
+        "projectName": "Oculus.Interaction.OVR.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.Interaction.OVR.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.XR.BuildingBlocks.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Editor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.Samples.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.Samples.csproj",
+        "projectName": "Oculus.Interaction.OVR.Samples",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.Samples.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.Interaction.OVR.Samples\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.Samples.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.Samples.Editor.csproj",
+        "projectName": "Oculus.Interaction.Samples.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.Samples.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.Interaction.Samples.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.Samples.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.Samples.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.LipSync.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.LipSync.csproj",
+        "projectName": "Oculus.LipSync",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.LipSync.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.LipSync\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.LipSync.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.LipSync.Editor.csproj",
+        "projectName": "Oculus.LipSync.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.LipSync.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.LipSync.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.LipSync.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.LipSync.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.Platform.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.Platform.csproj",
+        "projectName": "Oculus.Platform",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Platform.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.Platform\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.Platform.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.Platform.Editor.csproj",
+        "projectName": "Oculus.Platform.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Platform.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.Platform.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Platform.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Platform.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.csproj",
+        "projectName": "Oculus.Spatializer",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.Spatializer\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.Editor.csproj",
+        "projectName": "Oculus.Spatializer.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.Spatializer.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj",
+        "projectName": "Oculus.VR",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.VR\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Editor.csproj",
+        "projectName": "Oculus.VR.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.VR.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Scripts.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Scripts.Editor.csproj",
+        "projectName": "Oculus.VR.Scripts.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Scripts.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.VR.Scripts.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.Editor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Dictation.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Dictation.Editor.csproj",
+        "projectName": "VoiceSDK.Dictation.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Dictation.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\VoiceSDK.Dictation.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Dictation.Runtime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Dictation.Runtime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Dictation.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Dictation.Runtime.csproj",
+        "projectName": "VoiceSDK.Dictation.Runtime",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Dictation.Runtime.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\VoiceSDK.Dictation.Runtime\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Facebook.Wit.Dictation.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Runtime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Runtime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Editor.csproj",
+        "projectName": "VoiceSDK.Editor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Editor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\VoiceSDK.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Runtime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.Hub.Runtime.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.VSDKHub.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.Voice.VSDKHub.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.Editor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.Editor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Runtime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Runtime.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Runtime.csproj",
+        "projectName": "VoiceSDK.Runtime",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Runtime.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\VoiceSDK.Runtime\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Conduit.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.Lib.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Meta.WitAi.TTS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj",
+        "projectName": "VoiceSDK.Telemetry",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\VoiceSDK.Telemetry\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKEditor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKEditor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

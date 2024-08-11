@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj",
+        "projectName": "Oculus.Interaction",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.Interaction\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.csproj",
+        "projectName": "Oculus.Interaction.OVR",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.OVR.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.Interaction.OVR\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Interaction.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj",
+        "projectName": "Oculus.VR",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.VR.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.VR\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

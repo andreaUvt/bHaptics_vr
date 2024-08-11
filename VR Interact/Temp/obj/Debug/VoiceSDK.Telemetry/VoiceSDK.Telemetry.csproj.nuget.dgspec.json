@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKEditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKEditor.csproj",
+        "projectName": "AssistantCoreSDKEditor",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKEditor.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\AssistantCoreSDKEditor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj",
+        "projectName": "AssistantCoreSDKRuntime",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\AssistantCoreSDKRuntime\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj",
+        "projectName": "VoiceSDK.Telemetry",
+        "projectPath": "C:\\Users\\ciorb\\VR Interact\\VoiceSDK.Telemetry.csproj",
+        "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\VoiceSDK.Telemetry\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKEditor.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKEditor.csproj"
+              },
+              "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj": {
+                "projectPath": "C:\\Users\\ciorb\\VR Interact\\AssistantCoreSDKRuntime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

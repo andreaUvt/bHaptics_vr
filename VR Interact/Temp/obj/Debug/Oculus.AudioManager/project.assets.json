@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Oculus.Spatializer/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Oculus.Spatializer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Oculus.Spatializer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oculus.Spatializer/1.0.0": {
+      "type": "project",
+      "path": "Oculus.Spatializer.csproj",
+      "msbuildProject": "Oculus.Spatializer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Oculus.Spatializer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ciorb\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.csproj",
+      "projectName": "Oculus.AudioManager",
+      "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.AudioManager.csproj",
+      "packagesPath": "C:\\Users\\ciorb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ciorb\\VR Interact\\Temp\\obj\\Debug\\Oculus.AudioManager\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ciorb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.csproj": {
+              "projectPath": "C:\\Users\\ciorb\\VR Interact\\Oculus.Spatializer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
